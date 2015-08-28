@@ -1,0 +1,5 @@
+D:\Work\ACA\Wrangle Inc\SkyDrive\Projects\SaveXML\SaveXML\bin\Debug\SaveXML.dll
+D:\Work\ACA\Wrangle Inc\SkyDrive\Projects\SaveXML\SaveXML\bin\Debug\SaveXML.pdb
+D:\Work\ACA\Wrangle Inc\SkyDrive\Projects\SaveXML\SaveXML\obj\Debug\SaveXML.csprojResolveAssemblyReference.cache
+D:\Work\ACA\Wrangle Inc\SkyDrive\Projects\SaveXML\SaveXML\obj\Debug\SaveXML.dll
+D:\Work\ACA\Wrangle Inc\SkyDrive\Projects\SaveXML\SaveXML\obj\Debug\SaveXML.pdb
